@@ -1,0 +1,32 @@
+body{
+    background-color: #414141;
+    color: #ffffff;
+    text-align: center;
+
+}
+
+.heading{
+    margin-top: 60px;
+    margin-bottom: 50px;
+    font-size: larger;
+    font-family: sans-serif;
+}
+
+.btn{
+    line-height:40px;
+}
+
+#start{
+    padding: 10px 60px;
+    margin-right: 20px;
+    border-radius: 10px;
+    font-size: larger;
+    font-family: sans-serif;
+}
+#stop{
+    padding: 10px 60px;
+    margin-right: 20px;
+    border-radius: 10px;
+    font-size: larger;
+    font-family: sans-serif;
+}
