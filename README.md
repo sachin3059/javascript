@@ -1,2 +1,2 @@
 # javascript
-A javascript series
+A javascript series: by chai and code
